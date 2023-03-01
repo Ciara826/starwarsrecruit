@@ -1,0 +1,79 @@
+body{
+	background-color: #000000;
+}
+
+h1{
+	color: #ffffff;
+	text-decoration: none;
+	text-align: left;
+	font-family:'Orbitron', sans-serif;
+	font-size: 20px;
+	padding: 20px 20px 0px 20px;
+}
+	
+p{
+	color: #ffffff;
+	text-decoration: none;
+	text-align: left;
+	font-family:'Orbitron', sans-serif;
+	font-size: 15px;
+	padding: 0px 20px 0px 20px;
+	
+}
+li{
+	color: #ffffff;
+	text-decoration: none;
+	list-style: none;
+	text-align: left;
+	font-family:'Orbitron', sans-serif;
+	font-size: 11px;
+	padding: 10px 20px 0px 0px;
+}
+
+#base img{
+	width: 1300px;
+	height: 900px;
+    margin-top: 50px;
+	margin-left: 250px;
+	padding: 0;
+}
+
+a{
+	color: #ffffff;
+	text-decoration: none;
+	font-family:'Orbitron', sans-serif;
+	font-size: 20px;
+	padding: 0px;
+}
+
+a:hover{
+	color: grey;
+}
+
+#etho{
+	margin-top: -620px;
+	margin-left: 650px;
+}
+
+#his{
+	margin-top: -200px;
+	margin-left: 800px;
+}
+
+#emplo{
+	margin-top: 60px;
+	margin-left: 900px;
+}
+
+#ter{
+	margin-top: 370px;
+	margin-left: 750px;
+}
+#fac{
+	margin-top: -200px;
+	margin-left: 1175px;
+}
+#train{
+	margin-top: 250px;
+	margin-left: 850px;
+}
